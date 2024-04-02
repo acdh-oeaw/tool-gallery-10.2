@@ -2,7 +2,7 @@
 
 XML itself is a markup language that provides a flexible way to create structured documents. It's often used for storing and exchanging data on the internet. XML documents consist of text enclosed in tags, which define the structure and meaning of the data.
 
-TEI, on the other hand, is a set of guidelines for encoding textual documents in XML format. Therefore, we recommend that you first start reading material on XML and continue with TEI. We highly recommend that you support your learning process with the online Youtube lecture below.
+TEI, on the other hand, is a set of guidelines for encoding textual documents in XML format. Therefore, we recommend that you first start reading material on XML and continue with TEI.
 
 For this purpose, please study the following items:
 
