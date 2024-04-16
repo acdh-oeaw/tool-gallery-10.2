@@ -13,7 +13,7 @@ For this purpose, please study the following items:
 
 2. Study the [**10. Manuscription Description Module**](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html), also available as pdf [TEI Guidelines](https://tei-c.org/release/doc/tei-p5-doc/en/Guidelines.pdf) (p. 335-378).
 
-3. Read the Manuscript Description section in the [**Creating a Digital Scholarly Edition with the Text Encoding Initiative**](https://ec.europa.eu/programmes/erasmus-plus/project-result-content/cfb03c8e-6765-477e-aa4d-e2b162f57068/IO2_Creating%20a%20digital%20edition%20with%20the%20TEI.pdf).
+3. Read the "Manuscript Description" section in the [**Creating a Digital Scholarly Edition with the Text Encoding Initiative**](https://ec.europa.eu/programmes/erasmus-plus/project-result-content/cfb03c8e-6765-477e-aa4d-e2b162f57068/IO2_Creating%20a%20digital%20edition%20with%20the%20TEI.pdf).
 
 Additionally, we recommend that you watch the online video on YouTube:
 
